@@ -1,0 +1,15 @@
+.login{
+    background-color: #fff;
+}
+.image{
+    width:150px;
+    height:170px;
+}
+.bottom{
+    width:100%;
+    text-align: center;
+    position: fixed;
+    bottom:0;
+    color:#ccc;
+    font-size:12px;
+}

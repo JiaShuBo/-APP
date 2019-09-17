@@ -1,0 +1,9 @@
+.houseList{
+    display: flex;
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    align-items: flex-end;
+}

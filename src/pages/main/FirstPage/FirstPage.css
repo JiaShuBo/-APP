@@ -1,0 +1,71 @@
+.search{
+   width: 100%;
+}
+.searchBox{
+    height:40px;
+    line-height: 40px;
+    color:#fff;
+    
+}
+.search img{
+    width:30px;
+}
+.searchInput{
+    position: relative;
+    background-color: #fff;
+    color:#ccc;
+    width:70%;
+    height:30px;
+    border-radius: 15px;
+    text-indent: 35px;
+    display: flex;
+    align-items: center;
+}
+.searchInput img{
+    position: absolute;
+    left:10px;
+    bottom:50%;
+    transform: translateY(10px)
+}
+.icon{
+    display: flex;
+    width:100%;
+    flex-wrap: wrap;
+    padding:0;
+    justify-content: space-between;
+}
+
+.listMes{
+    height: 80px;
+    width:80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size:12px;
+}
+.listImg{
+    width:55px;
+    height:55px;
+    border-radius:50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.listMes img{
+    width:40px;
+    height:40px;
+}
+.house{
+    display: flex;
+    flex-direction: column;
+}
+.houseList{
+    display: flex;
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    align-items: flex-end;
+}

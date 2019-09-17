@@ -1,0 +1,13 @@
+.code{
+    position: relative;
+}
+.code-btn{
+    height:30px;
+    position: absolute;
+    right:0;
+    bottom:50%;
+    transform: translateY(15px);
+    border:none;
+    background-color: #fff;
+    color:#ccc;
+}

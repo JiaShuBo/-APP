@@ -1,0 +1,38 @@
+.myTop{
+    background-color: #5BC9FC;
+    padding:30px 10px;
+
+}
+
+.operation{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.myBottom{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.myicon{
+    width:33%;
+    height:65px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-right:1px solid #fff;
+    color:#fff;
+    font-size:16px;
+}
+.myicon:last-child{
+    border:none;
+}
+.userlist{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height:50px;
+    border-bottom:1px solid #ccc;
+    font-size:16px;
+}
